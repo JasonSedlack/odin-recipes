@@ -1,0 +1,21 @@
+/* styles.css */
+
+.title {
+    background-color:rgb(140, 140, 218);
+    font-size:28px;
+    text-align:center;
+}
+
+li {
+    font-size:16px;
+    font-family: Copperplate, Arial, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h2 {
+    color:blue;
+}
